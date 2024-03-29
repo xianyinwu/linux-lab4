@@ -29,3 +29,12 @@
 ### 自定义init
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/ac78f2f5-ee0f-43b6-aae8-16980abcee79)
 
+# 补充：
+## 编译配置安装Linux内核，qemu测试图如下：
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/1208cfef-7824-4cb6-ae18-aa95d3d03741)
+## 文件配置
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/7c0182c4-d5e7-41da-806e-0fe4be974967)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/090e7350-9caf-4b7c-ae21-7fee9bbbe4f1)
+## isobios配置
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/619afe04-2c3f-4a51-84dc-aa79c6d20199)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/1aecfda5-a570-4ddd-8cd0-29a806f9abb0)
