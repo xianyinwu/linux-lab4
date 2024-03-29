@@ -1,4 +1,4 @@
-![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/c5b6bf53-ed40-4066-9c29-bc3a9442cca9)# linux-lab4
+# 学号后三位：283
 ## 步骤一、新建虚拟机
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/3d655533-bb4d-45e8-8cbf-63049723c1b8)
 ## 步骤二、默认配置：
@@ -28,7 +28,4 @@
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/874ddd14-ebf0-4446-9935-c0d39c73ef89)
 ### 自定义init
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/ac78f2f5-ee0f-43b6-aae8-16980abcee79)
-
-
-
 
