@@ -1,4 +1,34 @@
 # 学号后三位：283
+## 采用两种方式：Docker和iso
+
+# docker方式打开虚拟机（Windows11 环境）
+
+## 预览docker效果
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/0007ac50-864b-4dff-a11b-dd3b09ec4229)
+## docker上传
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/0ecabd7f-d400-4ff2-b533-c84e6b716344)
+
+## 使用方法
+
+### 1拉取镜像
+  
+  docker pull xianyinwu/lab4_283_li:v1.0
+
+### 2.启动容器
+
+  docker run -it xianyinwu/lab4_283_li:v1.0
+
+### 3.环境展示
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/56d8415c-da90-4e88-b8d3-c840cd172c25)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/62aa7781-b906-41d1-9a03-898b6e0925e2)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/02684cdb-37c7-4a0d-997b-d48c94d1a04e)
+
+### 4.断点调试策略
+  同时两个终端进入该容器，一个进入linux-5.4.34启动gdb，另一个启动虚拟机（之后不用动）
+  
+  qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd rootfs.cpio.gz -S -s #启动虚拟机
+
+# iso文件方式打开虚拟机
 ## 步骤一、新建虚拟机
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/3d655533-bb4d-45e8-8cbf-63049723c1b8)
 ## 步骤二、默认配置：
