@@ -1,10 +1,15 @@
 # 学号后三位：283
 ## 采用两种方式：Docker和iso
 
-# docker方式打开虚拟机（Windows11 环境）
+# 方案一、docker方式打开虚拟机（Windows11 环境）
 
 ## 预览docker效果
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/0007ac50-864b-4dff-a11b-dd3b09ec4229)
+
+## Docker版本
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/c44176f9-814e-4b4e-a897-71029e96e79c)
+
+
 ## docker上传
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/0ecabd7f-d400-4ff2-b533-c84e6b716344)
 
@@ -28,7 +33,7 @@
   
   qemu-system-x86_64 -kernel linux-5.4.34/arch/x86/boot/bzImage -initrd rootfs.cpio.gz -S -s #启动虚拟机
 
-# iso文件方式打开虚拟机
+# 方案二、iso文件方式打开虚拟机
 ## 步骤一、新建虚拟机
 ![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/3d655533-bb4d-45e8-8cbf-63049723c1b8)
 ## 步骤二、默认配置：
