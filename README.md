@@ -11,7 +11,9 @@
 
 
 ## docker上传
-![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/0ecabd7f-d400-4ff2-b533-c84e6b716344)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/9135a0eb-4c8c-45a7-8fb7-51b28c96bb3a)
+![image](https://github.com/xianyinwu/linux-lab4/assets/126786092/8fb01769-85c5-4f3f-96a7-14205dc4ccf7)
+
 
 ## 使用方法
 
